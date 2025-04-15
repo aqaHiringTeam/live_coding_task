@@ -15,5 +15,13 @@
 8. Place the order and check that confirmation page is opened
 
 ### API Task:
+Part A
 1. Find the film with latest release date
 2. Using previous response (1) find the tallest person among the characters that were part of that film.
+3. Find the tallest person ever played in any Star Wars film
+
+Part B
+1. Search for a person with the name Vader.
+2. Using previous response (1) find which film that Darth Vader joined has the less planets and validate the response.
+3. Using previous responses (1) & (2) verify if Vader's starship is on film from response (2).
+4. Find and verify the oldest person ever played in all Star Wars films with less than 10 requests.
